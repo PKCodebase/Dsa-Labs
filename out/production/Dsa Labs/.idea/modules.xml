@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bit Manupulation/Bit Manupulation.iml" filepath="$PROJECT_DIR$/Bit Manupulation/Bit Manupulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dsa Labs.iml" filepath="$PROJECT_DIR$/.idea/Dsa Labs.iml" />
+    </modules>
+  </component>
+</project>
